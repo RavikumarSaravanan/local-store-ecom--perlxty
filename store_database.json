@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Organic Rice",
+      "price": 450.0,
+      "category": "Grains",
+      "description": "High-quality organic basmati rice, 5kg pack",
+      "stock": 50,
+      "image": "rice.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Palm Oil",
+      "price": 320.0,
+      "category": "Oils",
+      "description": "Pure refined palm oil, 2L bottle",
+      "stock": 30,
+      "image": "palm_oil.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Coconut Milk",
+      "price": 85.0,
+      "category": "Beverages",
+      "description": "Freshly extracted coconut milk, 1L",
+      "stock": 45,
+      "image": "coconut_milk.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Spice Mix",
+      "price": 150.0,
+      "category": "Spices",
+      "description": "Traditional masala blend, 200g",
+      "stock": 60,
+      "image": "spice_mix.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jaggery",
+      "price": 180.0,
+      "category": "Sweeteners",
+      "description": "Organic jaggery blocks, 1kg",
+      "stock": 25,
+      "image": "jaggery.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dried Fish",
+      "price": 420.0,
+      "category": "Seafood",
+      "description": "Premium dried fish, 500g pack",
+      "stock": 15,
+      "image": "dried_fish.jpg"
+    }
+  ],
+  "customers": [],
+  "orders": [],
+  "order_items": []
+}
